@@ -1,0 +1,21 @@
+nombre,apellido,celular,correo,dni,contrasenia,tipoMensaje,idMensajeElemento,mensajeValidacionEsperado
+Nicole,Morales,987321654,nicol_m@gmail.com,72578476,Sapitos123,Alert,"",Se registró correctamente.
+Nicole Xiomy Cristina Yasuri Yamile Jacinta Carol Melissa Luz Ruth Brunella,Santos,963247851,santos.nxyj@gmail.com,74123654,1897562,Mensaje,mensajeValidacionNombre,El nombre debe tener hasta 50 caracteres.
+Rubiu1,Huratado,978256123,rubiu.haratadi@gmail.com,72578476,ributu4848,Mensaje,mensajeValidacionNombre,El nombre debe tener solo caracteres alfabéticos.
+"",Morales,928375415,pipipi@gmail.com,72678176,suevf999,Mensaje,mensajeValidacionNombre,El nombre no debe estar vacío.
+Estiven,Morales Robladillo Santos Hurtados Mondragon Quispe Mamani,928375417,estiwiquispe@gmail.com,75436920,1789uvbj,Mensaje,mensajeValidacionApellido,El apellido debe tener hasta 50 caracteres.
+Lester,Morales Robladillo69,941236951,lester789@gmail.com,74563987,werty789,Mensaje,mensajeValidacionApellido,El apellido debe tener solo caracteres alfabéticos.
+Anthony,"",974632159,thonyllacta@gmail.com,74569821,zxcv852,Mensaje,mensajeValidacionApellido,El apellido no debe estar vacío.
+Xiomy,Huawei,98374,xim_hwwe@gmail.com,78945123,DVcdsd5,Mensaje,mensajeValidacionCelular,El número de celular debe tener 9 caracteres numéricos.
+Cristina,Religiosa,9878347437,cris.rel@gmail.com,75136984,rygbnj456,Mensaje,mensajeValidacionCelular,El número de celular debe tener 9 caracteres numéricos.
+Nicole,Morales,789456awe,nicolemmrr@gmail.com,78614320,tyui753,Mensaje,mensajeValidacionCelular,El número de celular debe tener solo caracteres numéricos.
+Yomi,Lopez,"",yomi@gmail.com,74169852,yomi753159,Mensaje,mensajeValidacionCelular,El número de celular no debe estar vacío.
+Chiomy,Lopez,974563214,nghjkmkicole.morales.robladillo.UNMSM.EDU.A@GMAIL.COM,78463126,cuvjll596,Mensaje,mensajeValidacionCorreo,El correo no debe tener más de 50 caracteres.
+Chayomi,Terrones,928375412,nicolrrrrrr@@GMAILCOM,72578476,ettvh897,Mensaje,mensajeValidacionCorreo,El correo tiene un formato inválido.
+Cristiana,Santa,928375415,"",72578476,wetvb743,Mensaje,mensajeValidacionCorreo,El correo no debe estar vacío.
+Cristinini,Morales,928375412,nicolemcb@gmail.com,7257,zxbb89,Mensaje,mensajeValidacionDni,El DNI debe tener 8 caracteres numéricos.
+Cris,Zuñiga,992837541,asdfghb5@gmail.com,725784763343,poojnn789,Mensaje,mensajeValidacionDni,El DNI debe tener 8 caracteres numéricos.
+Nicolle,Mondragon,998537541,rctyun8@gmail.com,345ff45g,zxcvbn147,Mensaje,mensajeValidacionDni,El DNI no debe tener un caracter alfabético.
+Estiwi,Hurtado,982837541,cvbnm6@gmail.com,"",poojjbb623,Mensaje,mensajeValidacionDni,El DNI no debe estar vacío.
+Esteban,Santos,928375412,estivensantos@gmail.com,72578476,ftftthvujkpokpoojhjvjhvghvcgfgdxgxfcfcfgcfjhbñpokohiuhihihiuhuhhjbjjnkjhkjnhjkhjknhvjgvjgvj,Mensaje,mensajeValidacionContrasenia,La contraseña no debe tener más de 50 caracteres.
+Salvador,Morales,992837541,moralessalv@gmail.com,72578476,"",Mensaje,mensajeValidacionContrasenia,La contraseña no debe estar vacía.

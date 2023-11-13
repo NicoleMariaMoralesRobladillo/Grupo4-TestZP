@@ -1,0 +1,12 @@
+﻿idPlataforma,fechaInicio,tiempoDuracion,codigoPago,tipoMensaje,idMensajeElemento,mensajeValidacionEsperado
+1,12/12/2023,8,123456,Alert,"",Solicitud guardada correctamente.
+,05/12/2023,6,qw1234,Mensaje,mensajeValidacionPlataforma,La plataforma no debe estar vacía.
+7,09/09/2023,4,3bd2af,Mensaje,mensajeValidacionFechaInicio,La fecha de inicio del servicio no debe ser anterior a hoy y en el presente año.
+1,21/03/2024,9,15o962,Mensaje,mensajeValidacionFechaInicio,La fecha de inicio del servicio no debe ser anterior a hoy y en el presente año.
+7,"",05,w7bc62,Mensaje,mensajeValidacionFechaInicio,La fecha de inicio del servicio no debe estar vacía.
+1,21/12/2023,-5,11s235,Mensaje,mensajeValidacionTiempoDuracion,El tiempo de duración del servicio debe ser de 1 a 12 meses.
+7,19/12/2023,18,t5vvx6,Mensaje,mensajeValidacionTiempoDuracion,El tiempo de duración del servicio debe ser de 1 a 12 meses.
+1,01/12/2023,"",156yyy,Mensaje,mensajeValidacionTiempoDuracion,El tiempo de duración del servicio no debe estar vacío.
+1,24/12/2023,12,111,Mensaje,mensajeValidacionCodigoPago,El código de pago debe tener 6 caracteres.
+7,20/12/2023,3,111888888,Mensaje,mensajeValidacionCodigoPago,El código de pago debe tener 6 caracteres.
+1,17/12/2023,4,"",Mensaje,mensajeValidacionCodigoPago,El código de pago no debe estar vacío.

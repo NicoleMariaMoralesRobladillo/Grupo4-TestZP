@@ -1,0 +1,13 @@
+correo,perfil,contrasenia,pin,tipoMensaje,idMensajeElemento,mensajeValidacionEsperado
+zorrito.plus@gmail.com,mizorrito,1597888ggg,8961,Alert,"",Se ingresó el perfil correctamente.
+zorritoooooooooooooooooooooooooooooooooooooooooooooo.plus@gmaaaail.com,mizorrito777,448v4vdc,7854,Mensaje,mensajeValidacionCorreo,El correo no debe tener más de 50 caracteres.
+zorrito.plus.com,pluszorrito88,cvb4562,1597,Mensaje,mensajeValidacionCorreo,El correo tiene un formato inválido.
+"",soyyo5,fvczvczv88,4862,Mensaje,mensajeValidacionCorreo,El correo no debe estar vacío.
+grupo4A@gmail.com,77777777777777777777777777miperfil8888888888888888888888888,zsvvsv211,5561,Mensaje,mensajeValidacionPerfil,El nombre del perfil no debe tener más de 50 caracteres.
+verificacion@unmsm.edu,"",489,1745,Mensaje,mensajeValidacionPerfil,El nombre del perfil no debe estar vacío.
+xime.lopex@gmail.com,ximexlopez8,vsdvsdvghrts4f965f1vd1v3ds1v4g6r4fg65e4rgf5v1rfgv13sr1fv3awrg546r4g65rg41v65f1v,1312,Mensaje,mensajeValidacionContrasenia,La contraseña no debe tener más de 50 caracteres.
+cristiana@hotmail.com,cristiana456,"",7531,Mensaje,mensajeValidacionContrasenia,La contraseña no debe estar vacía.
+rub.hurtado@yahoo.com,rubhurtado999,befgsdv8652v,1,Mensaje,mensajeValidacionPin,El PIN debe tener 4 caracteres numéricos.
+estiven@gmail.com,estivenmon756,bfge15979,159753266,Mensaje,mensajeValidacionPin,El PIN debe tener 4 caracteres numéricos.
+tonyllacta@gmail.com,tonyllacta,bcx2z34,78dd,Mensaje,mensajeValidacionPin,El PIN debe tener solo caracteres numéricos.
+lestter@gmail.com,lestter777,d5d5d5d,"",Mensaje,mensajeValidacionPin,El PIN no debe estar vacío.
